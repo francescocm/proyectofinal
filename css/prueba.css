@@ -43,7 +43,7 @@ body {
 
 .opacarfondo {
   background-color: black;
-  opacity: 90%; }
+  opacity: 80%; }
 
 .bodyredes {
   background-image: url("https://i.picsum.photos/id/1058/4608/3072.jpg?hmac=kfHIsJ4T3b-ily0CcdGESnuC4wwOPtnOQpcICheyvFQ");
@@ -248,7 +248,7 @@ tr:hover
 
 .item3__interno--boton {
   margin-top: 2%;
-  margin-left: 41%;
+  margin-left: 39%;
   align-items: center;
   background-color: #ff8800;
   color: #fff; }
